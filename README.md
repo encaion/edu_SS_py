@@ -19,7 +19,7 @@
 
 ---------
 # 각종 링크 모음
-### [Python 3.7]
+### [Python 3.9]
 <b>Official</b>: https://docs.python.org/3/ <br>
 <br>
 ### [Library]
